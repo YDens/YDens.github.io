@@ -29,5 +29,6 @@
 
 📌 Все алгоритмические наработки лежат в папке [`/algorithms`](https://github.com/username/algorithms).
 
-## :boom: Codewars
-    **[My Codewars](https://www.codewars.com/users/Dinis__)**
+# :boom: Codewars
+
+**[My Codewars](https://www.codewars.com/users/Dinis__)**

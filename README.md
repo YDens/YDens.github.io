@@ -15,7 +15,7 @@
 | **Your_Toilets** | Карта с метками "Туалетов", с возможностью оставлять фото, описание и комментарии | Python, Django, PostgreSQL, API Яндекс Карт, Docker | [Репозиторий](https://github.com/YDens/Your_Toilets) |
 
 > Ещё работы можно посмотреть в [моих репозиториях](https://github.com/username?tab=repositories).
-
+<br>
 ---
 
 ## 🧩 Задачки и алгоритмы

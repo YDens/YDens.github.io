@@ -27,9 +27,10 @@
 | **LeetCode** | Longest Substring Without Repeating Characters | [Go solution](https://github.com/username/leetcode/blob/main/lengthOfLongestSubstring.go) |
 
 
-📌 Все алгоритмические наработки лежат в папке [`/algorithms`](https://github.com/username/algorithms).
+> 📌 Все алгоритмические наработки лежат в папке [`/algorithms`](https://github.com/username/algorithms).
 
 ---
 
 # :boom: Codewars
-**[My Codewars](https://www.codewars.com/users/Dinis__)**
+
+> **[My Codewars](https://www.codewars.com/users/Dinis__)**
